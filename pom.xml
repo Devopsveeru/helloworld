@@ -162,7 +162,7 @@
     <project.reporting.outputEncoding>utf-8</project.reporting.outputEncoding>
     <!-- Optional URL to server. Default value is http://localhost:9000 -->
     <sonar.host.url>
-            http://13.232.89.81:9000
+            http://52.66.205.195:9000
     </sonar.host.url>
   </properties>        
 
